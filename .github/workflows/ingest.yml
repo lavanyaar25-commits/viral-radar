@@ -1,0 +1,48 @@
+name: viral-radar
+
+# Runs by itself every 3 hours. You never touch it.
+# News moves in hours, so 3 is the right interval - 6 misses stories entirely.
+# You can also press "Run workflow" in the Actions tab to trigger it manually.
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+# Lets the job push the new data back into the repo.
+permissions:
+  contents: write
+
+concurrency:
+  group: viral-radar
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci --omit=dev
+
+      - name: Collect, score and publish
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: npm run run
+
+      - name: Commit new data
+        run: |
+          git config user.name  'radar-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data docs newsletter
+          git diff --staged --quiet || git commit -m "data: reading $(date -u +'%Y-%m-%d %H:%M')"
+          git push

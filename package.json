@@ -1,0 +1,17 @@
+{
+  "name": "viral-radar",
+  "version": "1.0.0",
+  "description": "Detects which news stories are crossing borders right now, by reading 14 countries at the same moment.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "run": "node src/index.js",
+    "dry": "DRY_RUN=1 node src/index.js",
+    "serve": "npx --yes serve docs -l 3000"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}
