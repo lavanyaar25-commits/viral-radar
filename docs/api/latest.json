@@ -1,34 +1,94 @@
 {
-  "takenAt": "2026-08-07T14:05:45.423Z",
+  "takenAt": "2026-08-07T15:44:53.844Z",
   "counts": {
-    "IGNITION": 132,
+    "IGNITION": 138,
     "CLIMBING": 17,
-    "PLATEAU": 192,
-    "DECAYING": 175
+    "PLATEAU": 195,
+    "DECAYING": 177
   },
   "ignition": [
     {
-      "entity": "Thai teenager kills seven in rampage at home and school",
+      "entity": "EYNTK About August’s Rare Irish Solar Eclipse",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "IGNITION",
+      "phase": "BREAKING",
+      "countries": [
+        "US",
+        "IN",
+        "IE"
+      ],
+      "countryCount": 3,
+      "newCountries": 1,
+      "articleCount": 3,
+      "publisherCount": 3,
+      "ageHours": 5.4,
+      "score": 100,
+      "velocity": 102.76,
+      "pos": 31,
+      "ageDays": 0.23,
+      "platforms": 2,
+      "confirmedOn": [
+        "wikipedia"
+      ],
+      "confidence": 0.57,
+      "category": null,
+      "why": null,
+      "angle": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoMGV0d3hVZ3dqNE9nNnk2bTdUNEl3M3R6UEpDeXpydEMzdTVZUEhaRmJ0aWdMVHZZaS1DdzZPRmctUjB2M1V1ZFRlM2JDd2ZxWk9IZkxFSVFiZWEtdVo2eVJReXZMNG9VYkwzVnVYVQ?oc=5"
+    },
+    {
+      "entity": "How the Black Sticks are preparing for a Hockey World Cup like no one else",
       "source": "googlenews",
       "kind": "news",
       "status": "IGNITION",
       "phase": "SPREADING",
       "countries": [
-        "US",
-        "GB",
-        "AU",
         "CA",
-        "SG",
-        "IE"
+        "NZ",
+        "PK",
+        "IE",
+        "NG",
+        "KE"
       ],
       "countryCount": 6,
-      "newCountries": 2,
+      "newCountries": 4,
       "articleCount": 6,
       "publisherCount": 5,
-      "ageHours": 1.4,
+      "ageHours": 4.1,
       "score": 95.5,
-      "velocity": 128.93,
-      "pos": 2,
+      "velocity": 365.98,
+      "pos": 12,
+      "ageDays": 0.17,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "category": null,
+      "why": null,
+      "angle": null,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS1k0Ql9xNFI3NXlvc1UwdTd1U18yZWdyRmZaYkhyZTN0blFObWx4OUd4VzZRYmtsbERMek5iU3dWWDJ4Y2FnZHhBVVBGTUxXcm9ENmlZSEthd29CT2loNmtFaTRMaU1fNzhOWDRRRS1jbExKN2JBQ2ZLLWhBRnpRLTgxVXRpbVNiTkVwbEUzeTJ0V3E3VC1hQTV4Q2t0NXA0Um9velJ3dWNjVF9hYjVMX29mbzNmQU9NMHE5MnlDQWJobGdaWE1wZE56Yw?oc=5"
+    },
+    {
+      "entity": "'Unrefusable' offer rejected! Why Man City star Rodri chose Barcelona over Real Madrid",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "IGNITION",
+      "phase": "SPREADING",
+      "countries": [
+        "GB",
+        "IN",
+        "SG",
+        "NG",
+        "KE"
+      ],
+      "countryCount": 5,
+      "newCountries": 2,
+      "articleCount": 7,
+      "publisherCount": 5,
+      "ageHours": 1.5,
+      "score": 94.7,
+      "velocity": 148.37,
+      "pos": 27,
       "ageDays": 0.06,
       "platforms": 1,
       "confirmedOn": [],
@@ -36,213 +96,187 @@
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVmFjT3l5UUtOczJUcE1OcEgyRnZnX1p1NVdlZmM1Mi1rODg4MnVwZnNRbWI5cFpaa0o1RzN2YUtjdjBTMXJ5VTBUR1dVNjg2LUlMcVpaamhhcjZqZk45TjI4UEV3QUZJMGpSSzJQek1ZVDg4ODktRnlPdEkweWcyZEFFNW40eTA?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc3pYTFV5SUE1NGJxc0JDS1dvX1Fac003YXZSZ2JtWl9PRkdhZzBDdUNJZUxpRkZ2THpvUTVISHdWQTVSU18tMFJ0TEhZX3pFZE1uaU12akxBak1JXzBsY0pkaXY3RThZN2lpU0o2TnRCSXpsbDhnREw1U0JzTVhuVE5IWkcxYTVVOUI0ZmhUQVVLSmFjdkFqLTE5TWNCUHVpX1dzQ1I2ZjJuLU0xN1FPM1NFMkFMeHg0U3ViUjBfZUUtN3BWTEl3YkdDbmg5S2ZWSFM1RnJSb0wtNEhNTGFuLTJmVTIxREFRY2RvNDdSWDN1a2xSZElrYg?oc=5"
     },
     {
-      "entity": "‘Not afraid of controversy’: Edinburgh fringe rejects calls to cancel Amanda Knox comedy",
+      "entity": "Trump may be just what Michigan Democrats need after bruising primary",
       "source": "googlenews",
       "kind": "news",
-      "status": "CLIMBING",
+      "status": "PLATEAU",
       "phase": "BREAKING",
       "countries": [
-        "GB",
-        "PK",
+        "US",
+        "CA"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 5.7,
+      "score": 65.7,
+      "velocity": 19.88,
+      "pos": 4,
+      "ageDays": 0.24,
+      "platforms": 3,
+      "confirmedOn": [
+        "bluesky",
+        "wikipedia"
+      ],
+      "confidence": 0.79,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUZOOGhaTG5NS0IyNUh3SjhGUXE1THRPTDZYUTg3VmF2MWhTQnNLS21MSnA1Ry1jSWVBbHA2RHVXU2NUeFczTWl3UlFJWm9GOG9TOU9iT3U1aXh5N0p6VUZaUmxVOUVMaEtWRFpCNmVMVEFfVnlRSmd2U2JmQ1FVbVBkMDBVdmJhNG9SSE04SUpVUkNMNEhN?oc=5"
+    },
+    {
+      "entity": "South Korean satellite captures before and after views of SpaceX rocket's moon crash",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "US",
+        "CA",
         "NZ"
       ],
       "countryCount": 3,
       "newCountries": 0,
       "articleCount": 3,
       "publisherCount": 3,
-      "ageHours": 0.5,
-      "score": 82.5,
-      "velocity": 36.43,
-      "pos": 23,
-      "ageDays": 0.02,
-      "platforms": 2,
-      "confirmedOn": [
-        "wikipedia"
-      ],
-      "confidence": 0.57,
-      "category": null,
-      "why": null,
-      "angle": null,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1QzMGVZREtiWnM1dklRem1CLVg4dGl1QnRMLTQyN2E3a2huaGdNSVQwNkdlZnZRQzFCdEtuTGZvN2YyUnI2MGMyVGpNTTdXalhHR05VMDZNZ2pQTHRoUk5nLVZyOXJxYnhObXU2alF6VWJmTVZueTQ2QW9VcFdoTlJlNHBkd2E3QVJ0aEVwbFdSb1JFWlRjcTc2ZDZ4NmFReEhHSlFQQUNvdzdmbUtmUkRuLW4?oc=5"
-    },
-    {
-      "entity": "Africa CDC and WHO Call for Urgent, Community-Led Action to Contain Ebola in the DR Congo",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "NG",
-        "KE"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 3,
-      "publisherCount": 3,
-      "ageHours": 2.9,
-      "score": 66.3,
-      "velocity": 26.99,
-      "pos": 35,
-      "ageDays": 0.12,
+      "ageHours": 4.4,
+      "score": 65.6,
+      "velocity": 31.35,
+      "pos": 31,
+      "ageDays": 0.18,
       "platforms": 1,
       "confirmedOn": [],
       "confidence": 0.35,
-      "category": null,
-      "why": null,
-      "angle": null,
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5leVdJVTBaQVg3WERWbXZzQ2huZWNfOWlHLVFrNURYXzlOcnVNY2pocFFGNzVSN2NvUHozNXZKQTZ0cmMtZ2kzOVloVlRSMHg0M2FSX1BZM3FDSW8?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iMGpfMF8zYzV1Q09semMzcGlxaHN6M3FzZjNMWTdjYVhIQkd2OU9uampNWk9WWHNZQmxOZjkwOHBqc3V3MG02OXFnQkVBc1ZXTk5qdllfaXFyT012SU8yRFRfZk52ZENlSkxPaWcxYWdER1ZOZnRyOUVZTlM?oc=5"
     },
     {
-      "entity": "EYNTK About August’s Rare Irish Solar Eclipse",
+      "entity": "William Orbit, pop producer for Madonna, All Saints and more, dies aged 69",
       "source": "googlenews",
       "kind": "news",
       "status": "PLATEAU",
       "phase": "BREAKING",
       "countries": [
-        "IN",
+        "GB",
         "IE"
       ],
       "countryCount": 2,
       "newCountries": 0,
       "articleCount": 2,
       "publisherCount": 2,
+      "ageHours": 1,
+      "score": 65.2,
+      "velocity": 23.83,
+      "pos": 23,
+      "ageDays": 0.04,
+      "platforms": 2,
+      "confirmedOn": [
+        "gtrends"
+      ],
+      "confidence": 0.57,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNmVmSFlhcXhEN3ROeVM3V1pEZTBTSzEwa1J1bFI4VjFBc19EVGFlMm1vLU0tOEotakNVM0hkWWhJZUhvVWVFU2g2UkVHRGd5c244N2h1Smh4SGZzcmpnTk5LRWV3bWRJdFVfMmhpRGN6VHNoclZQVzhvZHk5STV2SUlEbXZJVFJKcGdNbllISWw0V3haTXVtM21yM2xBNlFXMmxRU2E3UQ?oc=5"
+    },
+    {
+      "entity": "Chinese company Landspace targets Aug. 10 for historic rocket launch and landing attempt",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "NG",
+        "KE",
+        "MY"
+      ],
+      "countryCount": 3,
+      "newCountries": 0,
+      "articleCount": 3,
+      "publisherCount": 2,
+      "ageHours": 0.7,
+      "score": 64.4,
+      "velocity": 30.59,
+      "pos": 34,
+      "ageDays": 0.03,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMDl3R0VJVUtsVEpmQ3FYbFVPZHFzYjc4Y0ZMbF9iYk9nODd2OEdKMWNXbUR4aHJ3a2JLY1ZIemZpd3Nzd09TTjJJZjZBXzg0ek90R05fVDM5cnFSc284eTVjWTh4TFNvTEdjOHEtRVFlNnhGaWNEY2huYW1EX21acGVWVVhJdGFSNmFmLUVxR2pEQXEtcEdWRVhQVURGak8wQ3FpaTI5dGRPRVF0TGg3MWpNbnphRHNfalpyWTY0NzRXeHlENDV4VTFPTkhiVWh3THpER0RLV3RHeUZFN09fQg?oc=5"
+    },
+    {
+      "entity": "‘No fuss’: MasterChef Australia judge calls Meghan Markle rumours ridiculous",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "AU",
+        "ZA"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
       "ageHours": 3.7,
-      "score": 63.2,
+      "score": 61.3,
       "velocity": 21.47,
-      "pos": 31,
+      "pos": 25,
       "ageDays": 0.15,
       "platforms": 2,
       "confirmedOn": [
-        "wikipedia"
+        "gtrends"
       ],
       "confidence": 0.57,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM1pyTlNrcE4wRWYwTUxoWjlJTWRsY1pXRENrclRTbVBmbXNUYzE4anAtV2JYYU5LaHA2UUUtZllxeUNicGZCUUtTUmxjbHVxbHZ1NW5ueEwyV21rbG9uRkl6bmxLNmJ5bWJSdjBtOXhJcHg2T0lCM2ZLdTdlMzRLcTdEMGhiRmxzRVRvekJSNnF1eTVYVmdBNtIBngFBVV95cUxQZDA1LW51ZnpkQkd4NG5sUHhQQkFWNlg5bHJ2ZGNJMG9SbFhJaHpjcVRtcURWMXlQODFzOGw1NzBzdlRSVkxqSmJrelJLMlI1WVhPRDcxem5FaTRKZ1lRNEZfTDk2cUUtaEVZNHVUdVItOGxkVVAxTENZeUUyR1hsOXZqUGlFSEdwUTAwTlZscmJfaW54MkJYbmZtelJEdw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQd19lejdEMUJoQkRwTjR2T2NjaEhzSnBJcmhvNGNRekhqQmpKVEpFZTQ3eTVlclB6UVNkYlJUWmlpeGtrUzF0Vzc4eGhuRURXTEcxaF9ZLVg5R0lmdTZBcnZyMGJfaHpFTFVJNUtzR2NyUjI4dXhTMHl6dlRpS2xScV9ydExKVHNzckpfbnhxVUVqU0FPR2tpamtWaW9UQnB2NnV5TXcwQkFJWFZ3ZW1UbUE1dUZadlFtcXU3UXJlalZUXzA1OEtoLUNjYkJfWkRFbnBLSG11WW1WaTRURHRPQk9GRktINkU1TlItOGdDQTh6T1VRRUZGTTVOcWRBNzBYN1FLbzhsVGxTNExUcFo0?oc=5"
     },
     {
-      "entity": "Satellite captures before and after views of SpaceX rocket's moon crash",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "IN",
-        "NZ"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 1.5,
-      "score": 62.7,
-      "velocity": 23.37,
-      "pos": 32,
-      "ageDays": 0.06,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQkNvYWtXMUVUdlBwV3RjUjJWWV91U3J6ZWVwOXdGamZwMldxOHJIUzNxUXhVZkJ4N3Q2bS1lVmtrUWp6VU8yVExCckhyZTU5b3BCUjdMZnhuSEttR2taS2l1QWJJejF4LV9fTnpNenhnMm1zSkpBY1lpbjZUOFBhWDNselpZcXhtRHYw?oc=5"
-    },
-    {
-      "entity": "Singapore clears plans to import clean energy from Malaysia",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "SG",
-        "MY"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 1.9,
-      "score": 61.7,
-      "velocity": 23.01,
-      "pos": 14,
-      "ageDays": 0.08,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWdFVTdTckF6U3FRQ3hjOXplVE9oSEV1T2djMm9NX2M0Qk5nRWhrYTVKV2YtNkJhalRiczZ0alFuTkxLdmcwSkZYOE83eGI1SVJjdGl3eUl3YkpoZ0pWZnZwa0FmZG9FbHh5ckoyRHpUMnluMFNkcFpfeUc4Qy1faTBOYjZ0WGI1U25QbTlqQk5TS1VCb19GVFlNeFl5eGRhQ1RDTlZnN2cwU183ZENz?oc=5"
-    },
-    {
-      "entity": "World’s first AI-designed viruses raise hopes — and fears",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "GB",
-        "NZ"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 2,
-      "score": 60.8,
-      "velocity": 22.93,
-      "pos": 35,
-      "ageDays": 0.08,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRTJkdnBfazh6YzF4eFhHU2pOM28tYjdoY0h0ZUhieDB1Tk1hZmJsZ0thRkZfbHNKQVk3UTJhbFFVUTgtOHp0SlYzbnc1ajd5WGl3Y1JGd3Vwa3o4WmVvX2FRSnN3UTJJTHV4cENPRkttVm0wREhybXVzYXhQbnRVWVlrM1pWNXlSbzZ3?oc=5"
-    },
-    {
-      "entity": "Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "IN",
-        "PK"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 2.1,
-      "score": 59.9,
-      "velocity": 22.84,
-      "pos": 13,
-      "ageDays": 0.09,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVy1aejJVOTJEdzhFTzNTUV80eUpJUnh1ZjRzcE1BMm1ueDF3XzZOMmVDTWVWVzc2S29kTDdBVUhoQTE0Mm1OTkdDYmpnUVBGT3h1MFkwQWFuM3pVcW9xOW9YSGJweklEMTdEM0hnSFBKQTI0RXpRUWRxNHdLYkxhZWhaaTFWRkxycDlvUmhIOXlseTQ4ZkdJbzFmWEtVcWVELTBmV2NlOU85TXE4NW5SSzVB0gG3AUFVX3lxTE5CTGxzYlNCcC1aMTA2Qk1RYTBaVjlNZnRKdWs5QWJMbDMyR3A2SWo3NmhOaXBHbkFfZUxFSXVOMm9CNU5KYmNBZUw0dmRua0NFTnhJdkZYMzBEXzJfWmpKWnF0dktQTnU0OUFYbnA5S0FTQjFzaDlacG1NNi1xOENqVVBUYXYwQmNZeEVMRUZHYVJ5OE5hWGRyX24zLVo4WUNtWU9TbE91NVJYcVdrYmhJLVhiUG9qOA?oc=5"
-    },
-    {
-      "entity": "Former NZX chair James Miller appointed to lead Financial Markets Authority",
+      "entity": "Stock Market Today: Dow Rises After Jobs Report Misses Forecasts — Live Updates",
       "source": "googlenews",
       "kind": "news",
       "status": "PLATEAU",
       "phase": "BREAKING",
       "countries": [
         "US",
-        "NZ"
+        "KE"
       ],
       "countryCount": 2,
       "newCountries": 0,
       "articleCount": 2,
       "publisherCount": 2,
-      "ageHours": 2.2,
+      "ageHours": 0.9,
       "score": 59,
-      "velocity": 22.75,
-      "pos": 6,
-      "ageDays": 0.09,
+      "velocity": 23.92,
+      "pos": 15,
+      "ageDays": 0.04,
       "platforms": 1,
       "confirmedOn": [],
       "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYy1CbENRYTBPU21iSG9yYVZxTTdzUDVKNjBmOEp6T2IzSWNQSnE0NHJOZ2c3dl9CRXlhR28yRTdJaDE2YzlMdER6RzBmUnpyTUxxVVVaZW1DZ0hfVXRLUEdSNUpWZEozZDhMMUtDWUVkbkhVZUh3MXVoMkZvUzk3Vkp2NXgta28?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kUzI3cTh1VU83bjJkTHNIaFNZX3R0NDVZcG9UazF1cEp6UWd0Rk5kZnU5U2h2dUhHdXpzYmNGakF6ajA0Y1dnWXEzMkVkRXhuNV9xSHZkRk54S3JvcExGMmlVaWE0QVU3bFNKcXdBb1FpWURwWHIwRFF2WVpjZw?oc=5"
     },
     {
-      "entity": "Transfer latest: Rodri, Cristian Romero, Bruno Guimaraes, rumours, gossip",
+      "entity": "US court fines Meta $567m over child safety on Facebook, Instagram",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "US",
+        "NG"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 2.5,
+      "score": 56.7,
+      "velocity": 22.49,
+      "pos": 18,
+      "ageDays": 0.1,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczhYbjNRU0xvTEpTaU9fS1BTUkpLREZMMWM0bVg0SnpkUExnVjMyWVg4VUtXT2tIeEt0VDBoWUpPV0t2SkE0X194Vk5CTEVJbjQwcUtnMTBINEZ4ZDcwLXk3ZkhSZXoyOXgxLVdyVWdhVTRaMGRQY0ZkdWZkREJHVURwTm1RQzdqQ2lRRFdxbnlZclpyRF9aSW5vV2ZvOWw4bGpuZUs3TEhnY2M?oc=5"
+    },
+    {
+      "entity": "Cambridge to review process for hiring senior academics after Jason Arday resignation",
       "source": "googlenews",
       "kind": "news",
       "status": "PLATEAU",
@@ -255,67 +289,67 @@
       "newCountries": 0,
       "articleCount": 2,
       "publisherCount": 1,
-      "ageHours": 1.4,
-      "score": 56.7,
-      "velocity": 18.05,
-      "pos": 27,
-      "ageDays": 0.06,
+      "ageHours": 1.7,
+      "score": 54.8,
+      "velocity": 17.84,
+      "pos": 1,
+      "ageDays": 0.07,
       "platforms": 2,
       "confirmedOn": [
         "wikipedia"
       ],
       "confidence": 0.57,
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBLeW50TzVySEJSWF8tSXdrOTBJbWp0Q1p5Q19JWDEtRFZBRFduT0Y3enhHX2UybnBNOFprSWI4MVZYUlp6TnRCcFlwVy1wZXQ5cWFSNU9SXy1Kd1VOZUJkWHNvUGc?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WSm1OV3FNRjJPcENmQnRjVmVzQ1BzMEpHY2paTjFoQ3cweVJBUVVBMmVRQ2hpVEo2OWdPaWdqZjZKTzR2dVNaMG9xUWs0Y3NHYmdGN3lSSWU4U1NQ?oc=5"
     },
     {
-      "entity": "New Intelligence Warns Russia May Provoke NATO Amid Dwindling U.S. Munitions",
+      "entity": "Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know",
       "source": "googlenews",
       "kind": "news",
       "status": "PLATEAU",
       "phase": "BREAKING",
       "countries": [
-        "US",
-        "GB"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 4,
-      "score": 55.4,
-      "velocity": 21.23,
-      "pos": 6,
-      "ageDays": 0.17,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdU0zZ01LYks5amJ1VXJ5ZzVjYkQwcURUWUxtWGM1Yk0zYkF3bmFTMzdEMm1tRWZJdjRYb1F4Q0lGbjVxdlN4UkhyWEtSVEtGcGViRE94X1RlMTh6ZkM5bmtoZUlSLXVUMG1QUTh2WG8tajZYZC1xX0dqZ0gtNTlnVXc2X1hMUmlxZHdtMTE3UG5obVNDYU9TY1c3eDEtbFd0aFQwVU5ZUXJFS0x4a0FQTnZKQzlNam9ER21JcExXTQ?oc=5"
-    },
-    {
-      "entity": "The UK is about to witness its most spectacular solar eclipse in 11 years. Here's what you need to know",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "KE",
-        "MY"
+        "GB",
+        "IN"
       ],
       "countryCount": 2,
       "newCountries": 0,
       "articleCount": 2,
       "publisherCount": 1,
-      "ageHours": 2.1,
-      "score": 54.4,
-      "velocity": 17.57,
-      "pos": 32,
-      "ageDays": 0.09,
+      "ageHours": 3,
+      "score": 53.3,
+      "velocity": 16.97,
+      "pos": 27,
+      "ageDays": 0.13,
       "platforms": 2,
       "confirmedOn": [
         "wikipedia"
       ],
       "confidence": 0.57,
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVkdzaGY3eFh4OFo3dVJ2Qi1lNllERkpoQ29WRTJERk9XMkw4QlhMS0cwTXpNSU9HY2JaUXd0bUFUTDdOTGYxWkl3bXhYWHlndEFzUFpZSzkxYzU5dTkyWmg5eDlaeFRhX1piUUVZLXVsMjI0Rk13emZrSkxtSFMxWm5fQ1hkZlhYREtBUUxKaGNmWVBIYmVXN0dMSFR0bkxrdnNCZnhMc1FPcjdBNnI5ZnpScU9OUWdwNWR6TEV0UEpOSk51ZVZhU0FQdzd4dzIxLUQzR25aRmFGckFTRzdaekpOVQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0ZkRElWa2tLOEdQUF83YzBqNlp6alNjMlhfdnFBR2tRSHQ5a1VhdFhtbFJYN2hiR2xJREl5ZHhubXdZOFJTMVpBbEYyY205LUhfRC0xVkFwYWQ1VzYwRjdIMWllLXNIenBDVXREMEhCU2lISmQ5TDZ2RGVMN1N4aUFwM1QwVS1HNjlKWjlrWFBuQy12T1VsaE9DNmROU3FkUW9ZZUJ3TXJHSE43allxQ3RFSklaZ9IBuwFBVV95cUxPODZWYzZZY1N0SXo4cTVNTlVQUExFempXNGtLMEpKcXJ6SnJfeUNnMlRRUUsxNUdXYUEyV2hwdnNiY2FHMllha09CR1lDbnpoR0FFcUhSZ2h4RXVaR24xOC14NVZfZjNLaTFUMEd0VlRlelB2YWhCeVhER0lvelV2blhXZzgyU2YtTXJLVE1mUDk0ZUlheEtQZEVxNjBXNkwxWWVQNjJ4UldDeEREQ0FuUnNET0pzUGJWdVpN?oc=5"
+    },
+    {
+      "entity": "House Democrats",
+      "source": "bluesky",
+      "kind": "social",
+      "status": "IGNITION",
+      "phase": "SIGNAL",
+      "countries": [],
+      "countryCount": 1,
+      "newCountries": 0,
+      "ageHours": 12,
+      "score": 100,
+      "velocity": 32.35,
+      "pos": 7,
+      "ageDays": 0.5,
+      "platforms": 2,
+      "confirmedOn": [
+        "googlenews"
+      ],
+      "confidence": 0.57,
+      "category": null,
+      "why": null,
+      "angle": null,
+      "url": "https://bsky.app/profile/trending.bsky.app/feed/822499929"
     },
     {
       "entity": "Amanda Knox",
@@ -341,7 +375,53 @@
       "url": "https://en.wikipedia.org/wiki/Amanda_Knox"
     },
     {
-      "entity": "Canada Jobs",
+      "entity": "trump iran news",
+      "source": "gtrends",
+      "kind": "search",
+      "status": "PLATEAU",
+      "phase": "SIGNAL",
+      "countryCount": 1,
+      "newCountries": 0,
+      "ageHours": 12,
+      "score": 72.8,
+      "velocity": 6.49,
+      "pos": 8,
+      "ageDays": 0.5,
+      "platforms": 2,
+      "confirmedOn": [
+        "googlenews"
+      ],
+      "confidence": 0.57,
+      "category": null,
+      "why": null,
+      "angle": null,
+      "url": "https://trends.google.com/trends/explore?q=trump%20iran%20news&geo=GB"
+    },
+    {
+      "entity": "Flughafen Leipzig/Halle",
+      "source": "wikipedia",
+      "kind": "lookup",
+      "status": "IGNITION",
+      "phase": "CONFIRMED",
+      "countryCount": 1,
+      "newCountries": 0,
+      "ageHours": 24,
+      "score": 100,
+      "velocity": 34.53,
+      "pos": 33,
+      "ageDays": 1,
+      "platforms": 2,
+      "confirmedOn": [
+        "gtrends"
+      ],
+      "confidence": 0.57,
+      "category": null,
+      "why": null,
+      "angle": null,
+      "url": "https://de.wikipedia.org/wiki/Flughafen_Leipzig%2FHalle"
+    },
+    {
+      "entity": "Political Commentary",
       "source": "bluesky",
       "kind": "social",
       "status": "IGNITION",
@@ -360,10 +440,10 @@
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://bsky.app/profile/trending.bsky.app/feed/822418662"
+      "url": "https://bsky.app/profile/trending.bsky.app/feed/822495381"
     },
     {
-      "entity": "defense pact",
+      "entity": "el nino australia",
       "source": "gtrends",
       "kind": "search",
       "status": "PLATEAU",
@@ -373,20 +453,20 @@
       "ageHours": 12,
       "score": 72.8,
       "velocity": 6.49,
-      "pos": 4,
+      "pos": 1,
       "ageDays": 0.5,
       "platforms": 2,
       "confirmedOn": [
-        "bluesky"
+        "googlenews"
       ],
       "confidence": 0.57,
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://trends.google.com/trends/explore?q=defense%20pact&geo=GB"
+      "url": "https://trends.google.com/trends/explore?q=el%20nino%20australia&geo=AU"
     },
     {
-      "entity": "Cristian Jaime",
+      "entity": "Piala Presiden (Indonesia)",
       "source": "wikipedia",
       "kind": "lookup",
       "status": "IGNITION",
@@ -396,20 +476,20 @@
       "ageHours": 24,
       "score": 100,
       "velocity": 34.53,
-      "pos": 23,
+      "pos": 10,
       "ageDays": 1,
       "platforms": 2,
       "confirmedOn": [
-        "googlenews"
+        "gtrends"
       ],
       "confidence": 0.57,
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://es.wikipedia.org/wiki/Cristian_Jaime"
+      "url": "https://id.wikipedia.org/wiki/Piala_Presiden_(Indonesia)"
     },
     {
-      "entity": "Movies Watched",
+      "entity": "Trump's Project",
       "source": "bluesky",
       "kind": "social",
       "status": "IGNITION",
@@ -428,7 +508,7 @@
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://bsky.app/profile/trending.bsky.app/feed/822387609"
+      "url": "https://bsky.app/profile/trending.bsky.app/feed/822468349"
     },
     {
       "entity": "william orbit",
@@ -441,7 +521,7 @@
       "ageHours": 12,
       "score": 72.8,
       "velocity": 6.49,
-      "pos": 1,
+      "pos": 4,
       "ageDays": 0.5,
       "platforms": 2,
       "confirmedOn": [
@@ -454,7 +534,7 @@
       "url": "https://trends.google.com/trends/explore?q=william%20orbit&geo=AU"
     },
     {
-      "entity": "Piala Presiden 2026",
+      "entity": "Chris Hansen",
       "source": "wikipedia",
       "kind": "lookup",
       "status": "IGNITION",
@@ -462,23 +542,20 @@
       "countryCount": 1,
       "newCountries": 0,
       "ageHours": 24,
-      "score": 100,
-      "velocity": 17.89,
-      "pos": 2,
+      "score": 95.5,
+      "velocity": 34.53,
+      "pos": 6,
       "ageDays": 1,
-      "platforms": 3,
-      "confirmedOn": [
-        "googlenews",
-        "gtrends"
-      ],
-      "confidence": 0.79,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://id.wikipedia.org/wiki/Piala_Presiden_2026"
+      "url": "https://en.wikipedia.org/wiki/Chris_Hansen"
     },
     {
-      "entity": "Cassidy",
+      "entity": "Operation Metro Surge",
       "source": "bluesky",
       "kind": "social",
       "status": "IGNITION",
@@ -497,10 +574,10 @@
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://bsky.app/profile/trending.bsky.app/feed/822329821"
+      "url": "https://bsky.app/profile/trending.bsky.app/feed/822513971"
     },
     {
-      "entity": "mohamed ali zoma",
+      "entity": "make america healthy again",
       "source": "gtrends",
       "kind": "search",
       "status": "PLATEAU",
@@ -514,81 +591,13 @@
       "ageDays": 0.5,
       "platforms": 2,
       "confirmedOn": [
-        "googlenews"
-      ],
-      "confidence": 0.57,
-      "category": null,
-      "why": null,
-      "angle": null,
-      "url": "https://trends.google.com/trends/explore?q=mohamed%20ali%20zoma&geo=DE"
-    },
-    {
-      "entity": "Piala Presiden (Indonesia)",
-      "source": "wikipedia",
-      "kind": "lookup",
-      "status": "IGNITION",
-      "phase": "CONFIRMED",
-      "countryCount": 1,
-      "newCountries": 0,
-      "ageHours": 24,
-      "score": 100,
-      "velocity": 34.53,
-      "pos": 10,
-      "ageDays": 1,
-      "platforms": 2,
-      "confirmedOn": [
-        "googlenews"
-      ],
-      "confidence": 0.57,
-      "category": null,
-      "why": null,
-      "angle": null,
-      "url": "https://id.wikipedia.org/wiki/Piala_Presiden_(Indonesia)"
-    },
-    {
-      "entity": "British Culture",
-      "source": "bluesky",
-      "kind": "social",
-      "status": "IGNITION",
-      "phase": "SIGNAL",
-      "countries": [],
-      "countryCount": 1,
-      "newCountries": 0,
-      "ageHours": 12,
-      "score": 93.5,
-      "velocity": 36.13,
-      "pos": 4,
-      "ageDays": 0.5,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "category": null,
-      "why": null,
-      "angle": null,
-      "url": "https://bsky.app/profile/trending.bsky.app/feed/822364130"
-    },
-    {
-      "entity": "klasmen piala aff 2026",
-      "source": "gtrends",
-      "kind": "search",
-      "status": "PLATEAU",
-      "phase": "SIGNAL",
-      "countryCount": 1,
-      "newCountries": 0,
-      "ageHours": 12,
-      "score": 72.8,
-      "velocity": 6.49,
-      "pos": 3,
-      "ageDays": 0.5,
-      "platforms": 2,
-      "confirmedOn": [
         "wikipedia"
       ],
       "confidence": 0.57,
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://trends.google.com/trends/explore?q=klasmen%20piala%20aff%202026&geo=ID"
+      "url": "https://trends.google.com/trends/explore?q=make%20america%20healthy%20again&geo=CA"
     }
   ],
   "climbing": []
