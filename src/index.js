@@ -21,6 +21,7 @@ import { addConfirmation } from './crosscheck.js';
 import { aggregate, diversify } from './dedupe.js';
 import { enrich } from './enrich.js';
 import { publish } from './publish.js';
+import { sendAlerts } from './alert.js';
 
 const t0 = Date.now();
 const log = (...a) => console.log(...a);
@@ -103,6 +104,11 @@ if (process.env.DRY_RUN) {
   const out = await publish(final);
   log(`     ignition ${out.ignition} · climbing ${out.climbing} · total ${out.total}`);
 }
+const sent = await sendAlerts(final, {
+  token: process.env.TELEGRAM_TOKEN,
+  chatId: process.env.TELEGRAM_CHAT_ID,
+});
+if (sent) log(`     ${sent} alert(s) sent`);
 printTable(final);
 log(`\ndone in ${((Date.now() - t0) / 1000).toFixed(1)}s`);
 
