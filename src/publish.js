@@ -54,8 +54,13 @@ export async function publish(scored) {
 
   // 4. Newsletter ----------------------------------------------------------
   await mkdir('newsletter', { recursive: true });
-  const date = takenAt.slice(0, 10);
-  await writeFile(`newsletter/${date}.md`, brief(ignition, climbing, date));
+  // One file per HOUR, not per day. An hourly pipeline that writes a daily
+  // file overwrites itself 23 times and you keep only the last reading.
+  // Filenames like "2026-08-07-14.md" sort correctly and never collide.
+  const stamp = takenAt.slice(0, 13).replace('T', '-');
+  await writeFile(`newsletter/${stamp}.md`, brief(ignition, climbing, takenAt.slice(0, 16).replace('T', ' ')));
+  //const date = takenAt.slice(0, 10);
+  //await writeFile(`newsletter/${date}.md`, brief(ignition, climbing, date));
 
   return { ignition: ignition.length, climbing: climbing.length, total: ranked.length };
 }
