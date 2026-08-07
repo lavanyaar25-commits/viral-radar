@@ -1,45 +1,272 @@
 {
-  "takenAt": "2026-08-07T02:50:48.310Z",
+  "takenAt": "2026-08-07T04:19:41.527Z",
   "counts": {
-    "IGNITION": 122,
-    "CLIMBING": 17,
-    "PLATEAU": 189,
-    "DECAYING": 150
+    "IGNITION": 132,
+    "CLIMBING": 15,
+    "PLATEAU": 204,
+    "DECAYING": 177
   },
   "ignition": [
     {
-      "entity": "Trump targets birthright citizenship with newly signed executive orders",
+      "entity": "T-Mobile Offering Free Samsung Galaxy Z Fold8, $1,900 Phone Seen Throughout 'Spider-Man: Brand New Day'",
       "source": "googlenews",
       "kind": "news",
-      "status": "IGNITION",
+      "status": "PLATEAU",
       "phase": "BREAKING",
       "countries": [
-        "US",
-        "IN",
-        "CA"
+        "CA",
+        "PH",
+        "KE"
       ],
       "countryCount": 3,
-      "newCountries": 1,
-      "articleCount": 4,
-      "publisherCount": 4,
-      "ageHours": 0.6,
-      "score": 95.5,
-      "velocity": 155.39,
-      "pos": 1,
-      "ageDays": 0.02,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
+      "newCountries": 0,
+      "articleCount": 3,
+      "publisherCount": 1,
+      "ageHours": 0.9,
+      "score": 71,
+      "velocity": 24.84,
+      "pos": 19,
+      "ageDays": 0.04,
+      "platforms": 2,
+      "confirmedOn": [
+        "wikipedia"
+      ],
+      "confidence": 0.57,
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBLTUhtVFhfVVgwRkhQNWZjTlcybGxzd291aVBEWGlNaWFpdVNZM05SWml4MlI5ajg0WU81RjZIOThrcWRMYTd3dC1GeFJ3bjN4THU1RXRqV2R2cGs4RWlQbmVkWUFBVDBZUFZ3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWXNTUGh2aDR1UUdncUVzUEh4TVh2aTZjUDRsZ3N6blZSemZSLVBPd21DTXBwY0ZMcTlzSzBwaTlUcjVPTUcwQWNhelVjczNsZHZ4QWVaX2MyenhESFlESHFTbEJGYUVXWDJyb0U0VnpvVDU2WUFLbHJ4NHo2UV9CVGM3WENqWHV0YkVBVzBkR3RFaDZOZ0tOT3VEd3V5djhxbDAxRWZadmRaWDkwTGNpVW1HRGJaX1JxSHlIODFFUQ?oc=5"
+    },
+    {
+      "entity": "One Tech Tip: Using your smartphone to capture the August total solar eclipse over Europe",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "PK",
+        "MY"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 0.3,
+      "score": 70,
+      "velocity": 24.48,
+      "pos": 31,
+      "ageDays": 0.01,
+      "platforms": 2,
+      "confirmedOn": [
+        "wikipedia"
+      ],
+      "confidence": 0.57,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM1llVmhRUmoyWEtwX0NWN01RQkpmM21OTVg1STc4dWoxQnl0SnFaVlhjZVphalBQbXp4TVc4d05vN1RMREhFNnBSQlhUQzEyRGtjbnVpUmxwYUk4UklMdzY5TVF3cUM0OWZ5UC15WGo3WW0wN2doQUp0cEpOWEp6ZlBwZDdYTmJkaUZ2cC05cVBBNlBZMldmSUYxQlJBaHFUNFdSWnNFU0NIaXd5VUFiQVBUOG1SSWE3OWlXcjMzRzZHYzJNWndiMkVhT0p3Rnk5QXpXUw?oc=5"
+    },
+    {
+      "entity": "NASA’s Just Prolonged Voyager 2’s Science Mission With A Big Bang",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "NG",
+        "PH",
+        "MY"
+      ],
+      "countryCount": 3,
+      "newCountries": 0,
+      "articleCount": 3,
+      "publisherCount": 1,
+      "ageHours": 2.3,
+      "score": 67.9,
+      "velocity": 23.53,
+      "pos": 32,
+      "ageDays": 0.1,
+      "platforms": 2,
+      "confirmedOn": [
+        "bluesky"
+      ],
+      "confidence": 0.57,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2NEblAxMkxwd2tsVWF4ZUZ5dWpTZkxQNUY5bVhoc2FrQ2V0Y1o0bnl1Ul9PNHYzcHBHYVNvbGdJM2l5WUpkRmFwejhfMUdEb29ucW9IRXk2aWtwbTB4UkJHd1IxUkdnNnJqUGd5WGVKX0RkNnFZSDlMSmo2aVY5TTJOSGh5NTR3MFJTTnN3MV9PTXU4YlMtSkhCUks?oc=5"
+    },
+    {
+      "entity": "China unveils refined lunar map, empowering future moon exploration",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "AU",
+        "SG",
+        "MY"
+      ],
+      "countryCount": 3,
+      "newCountries": 0,
+      "articleCount": 3,
+      "publisherCount": 2,
+      "ageHours": 1.8,
+      "score": 67.3,
+      "velocity": 29.32,
+      "pos": 33,
+      "ageDays": 0.07,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFByVWM4SnRDMmlqcS1PN0VGUHk0TzdjbDdJRVVKcHdkM1BLdkVWZUIwbFh1YlRyd2I2WWE4bW4zOWgwaWNuZVQxaXEzTmMtaUJQT1V2YVhpVVpfekV2MTFGMkJ5MDB2SE5CWDdCVVRwSDVyYlZ5cEEzbHRXdGQ?oc=5"
+    },
+    {
+      "entity": "Ebola Response Turns to Merck Vaccine, Gilead Drug as Congo Outbreak Worsens",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "SG",
+        "KE"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 1.2,
+      "score": 61.4,
+      "velocity": 23.64,
+      "pos": 35,
+      "ageDays": 0.05,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQR2xOMjhFQlNJdldHLTUwUnhaWmgwblhHY3BVNTQtYUF2YXRmYnY2VjdHN25iVXJIZTFfR2I1VTY1QU80eHdPZzdnVU0zdmliWWtuWm9XZWFkOUp3emNBZGRPUWs1MUdMWHFyVmJSbUdybm5tQlNMclBRRXFPS094TC05blFOUlpZOHF6V0NiNnBWMHUzN0Etd2lpSjM2MEpFbWJWU0R6Zm1INVQ5Q2dWOVFGa0R4ZTE3czk0TkI1X0t2NjBiVURobA?oc=5"
+    },
+    {
+      "entity": "Lower Oil Prices Lend Support For The Gold Rally",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "US",
+        "AU"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 3.5,
+      "score": 58.8,
+      "velocity": 21.64,
+      "pos": 18,
+      "ageDays": 0.15,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUlVNTDZsclJCdl9nSkprVW8zQm9wUkxEcGRWZEFIbWZ4NUc3WjNaY3o3WlAtejc0dTgzWkNRYXJaTEdrSGg0VnRiekRvbXNnb092emhKTzgxTm1qT2htZFdoV2t3Ym5qQ0dFeW9scGs1dUdaNTh5bjVJZkk2Z245MGNPQk1CQ013UV9rRzc5Z9IBlAFBVV95cUxNWkFUMlAwTHdxR3ZpZjYzUldvd3dkQmxrZ2dPVGl4aG5VcWpCVEpjTnJNTmtFQXV1ZFc5cUE2TVhtS0Qyc0FFUENLYjlRd3l1cXpJYTEzbWViVS1PQkROMFRmZXRKMzlTMDJrV2VtcENjUG1VUWdtamhlZGVDMEo3N0pFNzdiUXNiSG9TU0N6TEE3dXFP?oc=5"
+    },
+    {
+      "entity": "Trump targets birth tourism and citizenship in new executive orders",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "US",
+        "CA"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 4.1,
+      "score": 57.9,
+      "velocity": 21.15,
+      "pos": 1,
+      "ageDays": 0.17,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMnRJYkZKN2dHXzlobXhlMXlFY1dRZjdmcGhTNm1QSm9PLVh1eEVxOFB0UWMwdl81UC02Q0Q3ZkF1WVcxYXloSTg1TFhxMTFNeTF5X1dwcmtVaHhzUFNqcGNFU3I5SDhFYlpoQS15SS11dmVPZWI4YVR5M3pvU3lpOA?oc=5"
+    },
+    {
+      "entity": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "US",
+        "SG"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 4.6,
+      "score": 56.9,
+      "velocity": 20.74,
+      "pos": 2,
+      "ageDays": 0.19,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lbjJRUV9NcV9LdlpHdnVwSThzSGlOYWZjWW9SMU5KZHB5MmI3OHQ2Z0JPaHh2alF3Ym9pTHFDUWV1OEVUUnZtS1FwQXZwVGpIZmlOUWcyTGx3ZU5FZWRaelJnY05lWm5XZ1YxS3hB?oc=5"
+    },
+    {
+      "entity": "In Upset, Andy Ogles Loses to a Republican Challenger in Tennessee",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "US"
+      ],
+      "countryCount": 1,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 1,
+      "ageHours": 1,
+      "score": 56.5,
+      "velocity": 13.17,
+      "pos": 3,
+      "ageDays": 0.04,
+      "platforms": 3,
+      "confirmedOn": [
+        "bluesky",
+        "gtrends"
+      ],
+      "confidence": 0.79,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaFNlQ0o2WTV1VEtjR2ZVbHFsVG5RU1owRXphZWZTUEoxNEhUTFFtUjVVVGxLSENKTnNWSGNnX3pveW9ZYW5odHlxZ2RINnBNMm1HaFBNRXpuVTJTYzlvUmRDVzFZNTlrVV8takM1WDUzc251b0xleGdPY3FiZVYyUHd6RXFabVgxRW1XbE5ZaFpSMjdIeVNQMnR1eVk?oc=5"
+    },
+    {
+      "entity": "2026 NFL Hall of Fame Game: Who's playing, live updates, more as Panthers and Cardinals face off in preseason opener",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "US"
+      ],
+      "countryCount": 1,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 2.2,
+      "score": 55.4,
+      "velocity": 16.35,
+      "pos": 27,
+      "ageDays": 0.09,
+      "platforms": 2,
+      "confirmedOn": [
+        "bluesky"
+      ],
+      "confidence": 0.57,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMHN6LXd0SklubUt5ZVRxcF82emROOTVYakdIZGpPd0xPOTdwUFdyS3VpcTE1OW13bVhUNHlpcHNDT0VqcVNfcHFKTUdSMmdFOEdlWU9XZ1d3NFBsVVVKbmZaUWJEd29Yc0lKZGhIUzRXeVQzNnFtbHJOZmxPR1RiVUVaOXQ1SnAyeWxKekU2U0gwTUo2YjU3UFZTRkdWdHhGQWJaekdMbEctMm8yNTIxMWxsS1NqSC1RdS04TW54SVZhUXd6a2tLeTdNd041SzJxdjZLT056TDV4WXpWR1daWFdwZWFpRUtEMEppLTZFeUxSdTg?oc=5"
     },
     {
       "entity": "Pakistan, Turkey, And Saudi Arabia Set To Sign Historic Trilateral Defence Pact | Exclusive Details",
       "source": "googlenews",
       "kind": "news",
-      "status": "CLIMBING",
+      "status": "PLATEAU",
       "phase": "BREAKING",
       "countries": [
         "US",
@@ -50,260 +277,41 @@
       "newCountries": 0,
       "articleCount": 4,
       "publisherCount": 4,
-      "ageHours": 2.8,
-      "score": 70.5,
-      "velocity": 38.21,
-      "pos": 2,
-      "ageDays": 0.12,
+      "ageHours": 3.4,
+      "score": 53.5,
+      "velocity": 18.33,
+      "pos": 1,
+      "ageDays": 0.14,
       "platforms": 1,
       "confirmedOn": [],
       "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPa3M0RkZsT0JHNHhwVXVvVURQZWs0R1hMbHFpa0RsdXE4MjNaME9lUXc4bXc1M1J4em93djJwZ3U4bS1UczdEaVJDRENsYXlYS2xJQ19ZeTVmRU1mLTBxWHFySVIzRjh3OG5JWFU5b1BpNjYtUlFDNzllUG56Tm9VcTgyYUExX1FzZ3ltLWxXNEE2R3NYZ2I4bTRRUFZtbm5WQUo2UDc2X2hUb3ZaOUpvdVVFWFdQdmx0NXFaeHl3XzdjQQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hZUWVhcDdhTTRUNXZLSGxreUpURVRSeWtPejR6dnVMX2hyRlM1NTVpUWg3VVFSQ3JpRlF0U0tmUHQ4SGk3cnA2ZUhiWTJHSmlWWmpLYXE5dXFZalBpUkhpNUcyRktOTDBzSklhU2NmVkFHYlp3eFdxNjVSZE9CaTQ3b1VDODNfem1LRk1LbEJYSW01X1JDOTlnNFhNN3IwR1FhaTlFdFVVQlMtUnhrc1VJY9IBuAFBVV95cUxPZVN5LXR5UGlXbmxUUDhoTmNrdFlJaGowZmVKeUlwTldVM3RRaHhPSTc3UDRteDBybmxHZDZvTkpoN1hNbHBRS2NHbVEzcWxVZGY3dmQxN0dhcFRfWTkwZmhkMmRRdkN3NG5UbUhVU1JZN1Jhai0xRXl6Q2F2c3JMZXJ6emh0U3FmV1RnVm5NS3B6SGRzdE81R0hVaXhkU245LXpwcWZ6SXNMTDlvSEM2aHRMcnNSWFBL?oc=5"
     },
     {
-      "entity": "Carry Wall Street in Your Pocket With These Free Apps",
+      "entity": "Magnitude 5.8 Mindoro offshore quake felt in Metro Manila",
       "source": "googlenews",
       "kind": "news",
       "status": "PLATEAU",
       "phase": "BREAKING",
       "countries": [
-        "AU",
-        "KE"
+        "PH"
       ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 1.3,
-      "score": 58.7,
-      "velocity": 23.55,
-      "pos": 15,
-      "ageDays": 0.05,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcjFyUjNZYXEyaHd0NUVhN2IyZWtjdkRHTGstTmZsWkdLOW9CZjBjdllFclJkY01NZTRXRTVqQmNQVjZ4NXlBVHQ0MV9PZmZ2ZU9zMzhKMUVTbDdCSmN0WWdkeUFacWhiWl9xdTNPdlc2VDhBTjU3SHFsaTNsc2xrMDJmbms5aGZjZEVkd3B0MU5oRlFOQnFJaWRYZHJEWnZCaURZMkNjNUM4ZDBVMzE2M1gxb0ZFQmdCUW9tM0o3T0tSeEI4em9KbV96NVJBSjlHTEg0ag?oc=5"
-    },
-    {
-      "entity": "NASA astronauts Anil Menon, Jessica Meir undertake spacewalk to upgrade space station",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "US",
-        "IN"
-      ],
-      "countryCount": 2,
+      "countryCount": 1,
       "newCountries": 0,
       "articleCount": 2,
       "publisherCount": 2,
       "ageHours": 1.4,
-      "score": 58,
-      "velocity": 23.46,
-      "pos": 31,
+      "score": 51.2,
+      "velocity": 16.86,
+      "pos": 3,
       "ageDays": 0.06,
       "platforms": 1,
       "confirmedOn": [],
       "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYzljVVNYUWpIYXJNZEMwYWp3SkRTczJpeE5aY094SzhOaWlCZXBORGhoX2Q0c2ZBT2Fka2hPZ3hsZG1VYlRQM3plYjlzQVhHU0pQenB5SnZiQzc0OTRfVVdzcUJUZG9qZmJOWjJzZm5mOE9fdk13d3pWUDFqb0ZHSFRoQmkwVDhEaVA1UjF1X2lsMkJHWllWVGJqdEZGV0tja0hXU2RuNUhXNmlTM2gtU3N6QWs1NjlIMzU1Yk9rUnNmWEo1c05EVkdSR3BLUkJDTXlGNnAtRHhrUHJ6VERPUHdnVGk?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0VnTjRfci1IRTl0R0pKampLSTNWZjhaWFp0bGhhZGNSMTRJR195eUV4VHczVUg5Ujh1dXdBaFdocHg3Sm9iblNOb0lZdi1GVFZqTjRnMjQ2OURueUIxNDk0YjlnS1cxUTl2aE5DQUk2Q3ZKVmhnUWZRbkdURXltQzRjQV9OSi13RG5NaVJYaXozYXlCWWo2ak9rSm5JeWh0bEloZXpMTdIBrgFBVV95cUxQNmRBRjllWXlZd2p4cTVMeVQtN1EzN1VqX1NkdGZySi00bjdWOTAwcDRfYUtraGxwT3BaWDYyZllLeUlTM1JxTFFIQVl6Z0VnSWdvZUdtX2l3eFhyYm1yUmhsT3h1ZW1BM3NZUHJQNzZEb05nSGx3X2s0Q05HZWJvbnZIVEIzdzFBbFgzOVZEVkszLXJSVnFCWmU0NVRHNjA4bWMyNzlGTDV5b09YMXc?oc=5"
     },
     {
-      "entity": "Ebola caseload in DR Congo tops 4,000",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "CA",
-        "KE"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 1.8,
-      "score": 57.1,
-      "velocity": 23.1,
-      "pos": 35,
-      "ageDays": 0.07,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzQ0UFloeDdPYWZDRjV4RVM0b3BLU0YybkxjZTY4cGpTd3l1akJXWHBFSnhhSUdkMmJqcHFiZDE1MG1wUnRReGJNZlk2T3hBVGV0NEtRZVdqUzdXa3NvcVhmUXlvMHJ1WVU4UkVrNWxvYjdiWnhUamNMVTJ0bHB0TUNB?oc=5"
-    },
-    {
-      "entity": "Mother jailed for life for killing five-year-old son to claim insurance payouts in Vietnam",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "SG",
-        "MY"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 2.4,
-      "score": 56.1,
-      "velocity": 22.58,
-      "pos": 13,
-      "ageDays": 0.1,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVWdRQjFmUmxTMzRSc29ocmhYajVqVzNkVm93RlRZZmxqdFNTbnl0M1JVY2tHdWNMUDAyQ09LaHZVOWdFdm5WbmZhZUN5Y0hvYjdwOEZ5MVVuM1RyYklYQk1WZzZfWFV3RU84ZjhtcVFyUkY4a1ZKclhNNERYM0hCR3NRLU56eXU4M0dlbWx6dl9ObEFCZ0pvRVhyWXQ3TlpRSEg4NUdQbXBEYXhfSllUNHZaeEdRd0tUa3JLYVQ2VmlodHVxbXhIaTljaGo?oc=5"
-    },
-    {
-      "entity": "TikTok creator Sydney Towle, ‘an endless ray of sunshine’, has died",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "GB",
-        "NZ"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 2.8,
-      "score": 55.3,
-      "velocity": 22.23,
-      "pos": 22,
-      "ageDays": 0.12,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5WRFlEZjE4aGR1WEk2bjY1N1d1c2ZidlhnRkxTSWgweEVWck9pdzlJT1lYQWlWa0tvN0Noa084MHh3YUt6ZThLNjgySkpRRXp1TXRIODU0NV9UekIx?oc=5"
-    },
-    {
-      "entity": "Former Malaysia PM Ismail Sabri to be charged",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "SG",
-        "MY"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 3.1,
-      "score": 54.4,
-      "velocity": 21.98,
-      "pos": 1,
-      "ageDays": 0.13,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbDNGeXRXYUZ2MWpVeFFleGw1Q2hvemdJYVBvQW1RdnNtRWRwRGoxbXhhbDlaT2tneVF3dl9LSDM5VmN2YjhVcFJKZFRvdlQ1QkpNWWU1eFRMOXdoZm0yV1B4T2djZTlPWFZpOGlTcFBVS043R2RBc3F2ZHFicnBoc0hJMHhVUHRLckh0SUxKanI?oc=5"
-    },
-    {
-      "entity": "U.S. FDA approves first mRNA flu shot from Moderna",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "US",
-        "CA"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 5.3,
-      "score": 52.7,
-      "velocity": 20.19,
-      "pos": 35,
-      "ageDays": 0.22,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVWpwd0RmbHBhZ1BRYTRQQ0lnbFl2S0NwSllLS2VpSkdsNFVIWDNSSXlieTI2TnZPUWJCYXpfdV9oaGVkRVdGN1hfekVSWXdEblBqbURjUUFyN1RWVFRjOXQ5UkdmUE9uQ19GdXBvMDN0MlhjbFMzQ3dianVDLWVBaUZkWl9uZ2x6QVdDMEtxSEw3aDJqaHdRQXRKN01aWGJ0LXp1VUdRUkhYOW1f?oc=5"
-    },
-    {
-      "entity": "MDA SPACE RESPONDS TO CANADIAN SPACE AGENCY ANNOUNCEMENT ON CANADARM3",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "CA",
-        "MY"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 5.7,
-      "score": 51.8,
-      "velocity": 19.88,
-      "pos": 22,
-      "ageDays": 0.24,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzBxN3lIVG16d19EV0RBazZndjRWeHdoUGNZemViN3RtX2lfaGxYTy0zU0tHcDFWY1RJY3ZvYzJ6Z3daR0k1WlM0YUJIMmc1bjNBZkRtSE44RG5hWUFuNmllYUx1SklGNDlDZm84ZVFSdU9zUFJnaFV1U3d5RHFtLWNYTlpSYUxEUy1fX0xhYUE0TXI1X2c?oc=5"
-    },
-    {
-      "entity": "Environmental groups challenge FCC approval of startup’s plan to beam on-demand sunlight from space",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "CA",
-        "PH"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 1,
-      "ageHours": 5.4,
-      "score": 50.6,
-      "velocity": 15.47,
-      "pos": 34,
-      "ageDays": 0.23,
-      "platforms": 2,
-      "confirmedOn": [
-        "bluesky"
-      ],
-      "confidence": 0.57,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTRQVUxwNHV3OEQ2aXhGRWd4TEltY2x5UmpaUEJtdlZxRmlkX0lSVndGU0dySDcydndvUTRsanJQWUNMTE0za3JMVjRkaFJfakZTeElXWFJrTnBUMERBRlUzUnYxSmZaNWxrT3hWOHhJSVpHeEF1YTN2RFFLRHhrSVEtcHBBYXFhQnFFSFczb3VsSHBub2I1NGR6MVVpbWRPYWs2bEZlSWd2TmNNMEZRSk9QVnBvVkNHYmc?oc=5"
-    },
-    {
-      "entity": "Scientists Watch as a Distant World's Atmosphere Shrinks and Thins",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "PH",
-        "MY"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 1,
-      "ageHours": 0.7,
-      "score": 50.4,
-      "velocity": 18.54,
-      "pos": 33,
-      "ageDays": 0.03,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ3haZzdHakluLUZJeTZsc3ZvMEJRRUdOR0hHbVNIMDZkMDQ1WkZmZ3ZBVXdaS0pGRXdwdVlQaVRPLWsxRnE0ZDNXX3hMcTI0SS14SFN6UC1FMHZYSnFtdUxjX1BxU1l1VC1wanNDTVQ0WEs0SXJIWVZEOHdYMWloTVdWQU9kYS1wMFpweG5YeURaQ0FmQ2tEd2IyTVB5Q3J1M0hMX3pJdw?oc=5"
-    },
-    {
-      "entity": "Big Brother 28",
+      "entity": "Timbers Army",
       "source": "bluesky",
       "kind": "social",
       "status": "IGNITION",
@@ -313,8 +321,8 @@
       "newCountries": 0,
       "ageHours": 12,
       "score": 100,
-      "velocity": 39.91,
-      "pos": 1,
+      "velocity": 36.13,
+      "pos": 4,
       "ageDays": 0.5,
       "platforms": 2,
       "confirmedOn": [
@@ -324,7 +332,7 @@
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://bsky.app/profile/trending.bsky.app/feed/821933789"
+      "url": "https://bsky.app/profile/trending.bsky.app/feed/822031088"
     },
     {
       "entity": "Amanda Knox",
@@ -350,7 +358,7 @@
       "url": "https://en.wikipedia.org/wiki/Amanda_Knox"
     },
     {
-      "entity": "national handloom day",
+      "entity": "andy ogles",
       "source": "gtrends",
       "kind": "search",
       "status": "PLATEAU",
@@ -360,42 +368,18 @@
       "ageHours": 12,
       "score": 80.6,
       "velocity": 6.49,
-      "pos": 5,
+      "pos": 10,
       "ageDays": 0.5,
       "platforms": 3,
       "confirmedOn": [
         "googlenews",
-        "wikipedia"
+        "bluesky"
       ],
       "confidence": 0.79,
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://trends.google.com/trends/explore?q=national%20handloom%20day&geo=IN"
-    },
-    {
-      "entity": "Andy Ogles",
-      "source": "bluesky",
-      "kind": "social",
-      "status": "IGNITION",
-      "phase": "SIGNAL",
-      "countries": [],
-      "countryCount": 1,
-      "newCountries": 0,
-      "ageHours": 12,
-      "score": 100,
-      "velocity": 38.65,
-      "pos": 2,
-      "ageDays": 0.5,
-      "platforms": 2,
-      "confirmedOn": [
-        "gtrends"
-      ],
-      "confidence": 0.57,
-      "category": null,
-      "why": null,
-      "angle": null,
-      "url": "https://bsky.app/profile/trending.bsky.app/feed/821948393"
+      "url": "https://trends.google.com/trends/explore?q=andy%20ogles&geo=CA"
     },
     {
       "entity": "Rodri (football, 1996)",
@@ -421,7 +405,29 @@
       "url": "https://fr.wikipedia.org/wiki/Rodri_(football%2C_1996)"
     },
     {
-      "entity": "big brother spoilers",
+      "entity": "Red Sox",
+      "source": "bluesky",
+      "kind": "social",
+      "status": "IGNITION",
+      "phase": "SIGNAL",
+      "countries": [],
+      "countryCount": 1,
+      "newCountries": 0,
+      "ageHours": 12,
+      "score": 95.5,
+      "velocity": 37.39,
+      "pos": 3,
+      "ageDays": 0.5,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "category": null,
+      "why": null,
+      "angle": null,
+      "url": "https://bsky.app/profile/trending.bsky.app/feed/822020781"
+    },
+    {
+      "entity": "meteor shower august 2026",
       "source": "gtrends",
       "kind": "search",
       "status": "PLATEAU",
@@ -431,41 +437,17 @@
       "ageHours": 12,
       "score": 72.8,
       "velocity": 6.49,
-      "pos": 5,
+      "pos": 6,
       "ageDays": 0.5,
       "platforms": 2,
       "confirmedOn": [
-        "bluesky"
+        "wikipedia"
       ],
       "confidence": 0.57,
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://trends.google.com/trends/explore?q=big%20brother%20spoilers&geo=US"
-    },
-    {
-      "entity": "Haynes King",
-      "source": "bluesky",
-      "kind": "social",
-      "status": "IGNITION",
-      "phase": "SIGNAL",
-      "countries": [],
-      "countryCount": 1,
-      "newCountries": 0,
-      "ageHours": 12,
-      "score": 100,
-      "velocity": 31.09,
-      "pos": 8,
-      "ageDays": 0.5,
-      "platforms": 2,
-      "confirmedOn": [
-        "gtrends"
-      ],
-      "confidence": 0.57,
-      "category": null,
-      "why": null,
-      "angle": null,
-      "url": "https://bsky.app/profile/trending.bsky.app/feed/821883210"
+      "url": "https://trends.google.com/trends/explore?q=meteor%20shower%20august%202026&geo=US"
     },
     {
       "entity": "Chris Hansen",
@@ -489,7 +471,32 @@
       "url": "https://en.wikipedia.org/wiki/Chris_Hansen"
     },
     {
-      "entity": "kemi badenoch council housing policy",
+      "entity": "Andy Ogles",
+      "source": "bluesky",
+      "kind": "social",
+      "status": "PLATEAU",
+      "phase": "SIGNAL",
+      "countries": [],
+      "countryCount": 1,
+      "newCountries": 0,
+      "ageHours": 12,
+      "score": 79,
+      "velocity": 3.37,
+      "pos": 2,
+      "ageDays": 0.5,
+      "platforms": 3,
+      "confirmedOn": [
+        "googlenews",
+        "gtrends"
+      ],
+      "confidence": 0.79,
+      "category": null,
+      "why": null,
+      "angle": null,
+      "url": "https://bsky.app/profile/trending.bsky.app/feed/821948393"
+    },
+    {
+      "entity": "big brother spoilers",
       "source": "gtrends",
       "kind": "search",
       "status": "PLATEAU",
@@ -499,7 +506,7 @@
       "ageHours": 12,
       "score": 72.8,
       "velocity": 6.49,
-      "pos": 7,
+      "pos": 2,
       "ageDays": 0.5,
       "platforms": 2,
       "confirmedOn": [
@@ -509,7 +516,7 @@
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://trends.google.com/trends/explore?q=kemi%20badenoch%20council%20housing%20policy&geo=GB"
+      "url": "https://trends.google.com/trends/explore?q=big%20brother%20spoilers&geo=CA"
     },
     {
       "entity": "Primetime (2026 film)",
@@ -533,29 +540,7 @@
       "url": "https://en.wikipedia.org/wiki/Primetime_(2026_film)"
     },
     {
-      "entity": "Horror TV Shows",
-      "source": "bluesky",
-      "kind": "social",
-      "status": "IGNITION",
-      "phase": "SIGNAL",
-      "countries": [],
-      "countryCount": 1,
-      "newCountries": 0,
-      "ageHours": 12,
-      "score": 94.2,
-      "velocity": 37.39,
-      "pos": 3,
-      "ageDays": 0.5,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "category": null,
-      "why": null,
-      "angle": null,
-      "url": "https://bsky.app/profile/trending.bsky.app/feed/821970183"
-    },
-    {
-      "entity": "frances tiafoe",
+      "entity": "portland timbers",
       "source": "gtrends",
       "kind": "search",
       "status": "PLATEAU",
@@ -569,44 +554,72 @@
       "ageDays": 0.5,
       "platforms": 2,
       "confirmedOn": [
-        "wikipedia"
+        "bluesky"
       ],
       "confidence": 0.57,
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://trends.google.com/trends/explore?q=frances%20tiafoe&geo=IN"
+      "url": "https://trends.google.com/trends/explore?q=portland%20timbers&geo=BR"
+    },
+    {
+      "entity": "Big Brother 28",
+      "source": "bluesky",
+      "kind": "social",
+      "status": "PLATEAU",
+      "phase": "SIGNAL",
+      "countries": [],
+      "countryCount": 1,
+      "newCountries": 0,
+      "ageHours": 12,
+      "score": 71.3,
+      "velocity": 3.37,
+      "pos": 1,
+      "ageDays": 0.5,
+      "platforms": 2,
+      "confirmedOn": [
+        "gtrends"
+      ],
+      "confidence": 0.57,
+      "category": null,
+      "why": null,
+      "angle": null,
+      "url": "https://bsky.app/profile/trending.bsky.app/feed/821933789"
     }
   ],
   "climbing": [
     {
-      "entity": "South Korean satellite captures before and after views of SpaceX rocket’s moon crash",
+      "entity": "South Korean satellite captures before and after views of SpaceX rocket's moon crash",
       "source": "googlenews",
       "kind": "news",
-      "status": "CLIMBING",
+      "status": "IGNITION",
       "phase": "GLOBAL",
       "countries": [
         "US",
         "GB",
         "CA",
+        "ZA",
         "IE",
         "NZ",
         "PK",
         "KE"
       ],
-      "countryCount": 7,
+      "countryCount": 8,
       "newCountries": 0,
-      "articleCount": 7,
-      "publisherCount": 5,
-      "ageHours": 5,
-      "score": 68,
-      "velocity": 34.91,
+      "articleCount": 8,
+      "publisherCount": 6,
+      "ageHours": 6.5,
+      "score": 87.6,
+      "velocity": 68.22,
       "pos": 31,
-      "ageDays": 0.21,
+      "ageDays": 0.27,
       "platforms": 1,
       "confirmedOn": [],
       "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdzg4eE4yNFVQekQwYWNEdE10OUN6aGRxU1JqRzFUSUYwS0pCc3VFUkpOQ0tMa1RDNUtsMTRmQ2lqaGY2dG55Sl9uLWE2VWtsSUxQOEdQQnFKV2gya21JNkdYUW84a3czT1loYkZzbDdzQkROM1diNlE4YlBFZzlTSUlGVU1tbGpxY2dZMw?oc=5"
+      "category": null,
+      "why": null,
+      "angle": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90YV9kRTFSdHl2RU51UWZhby1FdU9XM3N3RHU5UnRxa2FCbGRDSXVaQTM0OXhyNUVFRTN1ZjBzQnN5QWVOajJUVnAwSmJkR0xMbXZXUkZvQWdGUQ?oc=5"
     }
   ]
 }
