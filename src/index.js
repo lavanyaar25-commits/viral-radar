@@ -73,7 +73,7 @@ const aggregated = aggregate(records);
 
 // ---- 3. COMPARE TO HISTORY -------------------------------------------------
 log('3/7  loading previous reading…');
-const previous = await loadPrevious(2.5); // news moves fast, so compare ~3h back
+const previous = await loadPrevious(0.9); // news moves fast, so compare ~3h back
 const prevIndex = indexSnapshot(previous);
 log(`     ${previous ? `${prevIndex.size} entities from ${previous.takenAt}` : 'no history yet (first run)'}`);
 
