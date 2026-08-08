@@ -1,17 +1,218 @@
 {
-  "takenAt": "2026-08-08T05:36:02.197Z",
+  "takenAt": "2026-08-08T06:35:18.247Z",
   "counts": {
-    "IGNITION": 122,
-    "CLIMBING": 18,
-    "PLATEAU": 222,
-    "DECAYING": 176
+    "IGNITION": 123,
+    "CLIMBING": 20,
+    "PLATEAU": 216,
+    "DECAYING": 180
   },
   "ignition": [
+    {
+      "entity": "Congo’s Ebola Outbreak Crosses 4,000 Cases As Death Toll Hits 1,850",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "IGNITION",
+      "phase": "SPREADING",
+      "countries": [
+        "IN",
+        "CA",
+        "ZA",
+        "NG",
+        "KE"
+      ],
+      "countryCount": 5,
+      "newCountries": 2,
+      "articleCount": 5,
+      "publisherCount": 2,
+      "ageHours": 6.8,
+      "score": 94.6,
+      "velocity": 97.75,
+      "pos": 35,
+      "ageDays": 0.28,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "category": null,
+      "why": null,
+      "angle": null,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14TFRDendyMUZnS3BiQTBzdFhpRkJwNkNoM09TYzA5bUd5OVRsR2RlMlZnREoxT0Mxa3Vpb3VpNnIyWGhwY2NTVjk1bE9vTnhLU29DZm5YWTZraWdEYnByZUxqNGI4cnNIeVdINFlEWUdmcXA5OWdTTEp6NGdyZw?oc=5"
+    },
+    {
+      "entity": "West Asia war LIVE: U.S. expects deal soon on Strait of Hormuz",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "CLIMBING",
+      "phase": "BREAKING",
+      "countries": [
+        "IN",
+        "PK",
+        "MY"
+      ],
+      "countryCount": 3,
+      "newCountries": 0,
+      "articleCount": 3,
+      "publisherCount": 3,
+      "ageHours": 3.5,
+      "score": 69.9,
+      "velocity": 32.46,
+      "pos": 11,
+      "ageDays": 0.15,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "category": null,
+      "why": null,
+      "angle": null,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNEEwQXFsNTF3UjVzRGNGNmszcUxydTl2X0lwQVNBdDJGZWlWZmlXOFRvQ0haRUlZQkpTRkdONzA3UlRha3lVd2RZOFdYdGZySmZBSXJ3S0h4T2V1cl9XZUd1SGdRYkk3d3IzSk1sWUV5Si1qZWFlRG0zLWJncGZ3ZUp3RFRsZ1F6UWxrbnZwd1ZuaC01eHRrWl9JZWpYUWFMb1diMEYwakVyQ1NSbXVLY2NYWEpFRmlIOFRCNVYzeG1UY0RiUEFIMmRYZ2tpSGppUTV0LWlNRkhzb1hzNEJFSjZfeGxfSzgwR1lxY19XWTZDRVXSAfoBQVVfeXFMTUctZGVMbm9xWmxURU93RlVRM3hELTF4c0hxeXhiV01wcnpERGc1ZWdPNFV0WnRubmplb2c4ckEyYVRPMlQ4WTZRanJ3UG9MRGhIajI0TDdpbE5VRlF5NVBtSjJUWl9rNHNVbzI2aGc3UXVMbXdpTnRPVElvcUVZTVRIUzJ3YVpIeHpraDVrOVlBZHFQUzhuVzltZXBnRGJxLWs3SkxWT0I4YWlNN3lkQmZVQ2ZuY19ZNS1MZ0E1UlhnZEN0QlJBNHk5Mlc0cjlmZEpJVUdRallsTkhxMzNKa0dSNE1Sc1JRTEJzZVFlZ2FUdi1DOGJFUV9Vdw?oc=5"
+    },
+    {
+      "entity": "Mercedes-Benz and Alfa Romeo recall 294 vehicles in South Africa",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "ZA"
+      ],
+      "countryCount": 1,
+      "newCountries": 0,
+      "articleCount": 5,
+      "publisherCount": 4,
+      "ageHours": 2.6,
+      "score": 65.6,
+      "velocity": 27.96,
+      "pos": 6,
+      "ageDays": 0.11,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGI1cXlXb3dacWhVYWRZM00tYWtKNmYtMmxNVnZFRk5BSVR3N3ZLNkp3aFFCLW42RGd2dDVidkR3UzRZVF9qNHlXcmY5bDB6UVNvaTc1dHJuRkwwODU4bFB1bC1iTENEdFd1Um0tX1BlY19VQzdhckNLdEFlaER6XzRVdTlNWEJvYUVrdzczdXJVSGhfbTlLQ1hnNl9KRnlQU1E1cUgtaVo0Nm1zeUxBN1h2bURqN1Q0RTVfeFVVVTM?oc=5"
+    },
+    {
+      "entity": "Avika Gor hospitalised due to dengue, husband Milind Chandwani says she worked with 104 fever: ‘Unable to move or eat’ | Hindustan Times",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "IN",
+        "SG"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 1.3,
+      "score": 61.9,
+      "velocity": 23.55,
+      "pos": 19,
+      "ageDays": 0.05,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVDhiejJabm1KUFdjTzhXOW0tT2IyVVpvSE9keDh3MWdWLWtjc3JsU2FEcG01WU5VVVNqNnk2SlhkdnNTUGM0VTktUDdwaXRhTG9jRUNBRk9lWUZPT2dubGpTaVJhcngzRlZYRE9hc0VlR21DU25KZVdXZzZkVGpOakRZQldQLWxPajV5SGVQZmhvQ3dBSGdVYzVIODNZSlI4d3diQkhsaFJSZUUzLWk3TlFCZmxuajdxcTdPZjV2aElhU18tV0Y3dng3UDJubUQ3aWJVTjY0dTNWUmJLMDdWbER0UW82VWFuNzRVZk50eUhlNTjSAfgBQVVfeXFMUFM3QUE3U1IwU2dDRE81ZTdjQzRTZUxvOFZiWmM0dGJSdGNIZUNjQ0t2UjlkTjN0VHFUTTlDVjFTLWdLTWdVQXFubWRINnFYMTF5SUpIeWFuMHRtQ01Cc3U0Y1VFVEt0dXpUYnJ5WnN1d2VMR0NYVjNDS0VlZU5YTTlrNzRFeTRZVEFLZHNhLV8ydEZqSkd4dWRlQy1BZ0VXc0lPOUE0LTZjX01BYnZaUWdvZURmQXFRanJmNWhPTmI3WHZnS3FXOWg4cWFydTV5Xzdfb0NXRzJoSm1LQi16VExVYklVeDk0X2NaRF96Uzd6bV9idkgwWDE?oc=5"
+    },
+    {
+      "entity": "Typhoon Dolphin hits Japan's Okinawa, China shuts ports ahead of landfall",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "US",
+        "SG"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 2,
+      "score": 60.9,
+      "velocity": 22.93,
+      "pos": 3,
+      "ageDays": 0.08,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb0J4a1l5M0xKRnRfV3I3SVhteEVqM2NOTVdiWnNYMi1zMlZ2WmtydHpDZmZvenRoMWRVeVBmSmotNldBa3U1bGRtcUhqZHdaam1oUDRCYmVoUVlTZkRrbEhuXzJzUTYtVU9GcUFzdXdjNm54S1o2ZlJfTm90bnJWYnBqRVR2TUQ2bWRsWVVlUlRSbWVhWWpYemp1S0c0a3ZSenZzZmdWODVYd1VINDhtSjlOZHpZSDVJbzFUVEVMVFh6YWs?oc=5"
+    },
+    {
+      "entity": "Divisions on China missile test threaten to destabilise Pacific Islands Forum",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "AU",
+        "NZ"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 2.9,
+      "score": 59.7,
+      "velocity": 22.15,
+      "pos": 11,
+      "ageDays": 0.12,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdE9pLURyV3Vnb3J3ZTUzWUlIdGxhZi01WjB0Uzc2Y0hXUkl6Y0h3ZlNQX0tPNkIzbU1QY1hIdEcyQmVWWjlReWNSbFRnVWlhLVhfM0cwUlJVR3BKdlI0TDdPMnNpMkhRd3J2WmpMbGNoUk1HbFBWYnNRQkowTFFveWRIanJFYWxLWXJEN0VLSmpjcFdYRmNr?oc=5"
+    },
+    {
+      "entity": "Carla Guevara grateful for support for daughter Sophia Laforteza following hiatus from KATSEYE",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "SG",
+        "PH"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 2.9,
+      "score": 59.7,
+      "velocity": 22.15,
+      "pos": 24,
+      "ageDays": 0.12,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GdGJVLXY2ZnZES3BZT3JjaG1rZWFqbld2SVhKRHJDQktETXZ5dldCaU1leFlQZW5mczNqdUYxWC1ReEJnb0ZJaXJvWDFxeFlvQ19BcUlUN2hYQQ?oc=5"
+    },
+    {
+      "entity": "Pentagon strips ex-Air Force secretary Kendall of security clearance over Air Force One claim",
+      "source": "googlenews",
+      "kind": "news",
+      "status": "PLATEAU",
+      "phase": "BREAKING",
+      "countries": [
+        "US",
+        "IN"
+      ],
+      "countryCount": 2,
+      "newCountries": 0,
+      "articleCount": 2,
+      "publisherCount": 2,
+      "ageHours": 3.7,
+      "score": 58,
+      "velocity": 21.47,
+      "pos": 9,
+      "ageDays": 0.15,
+      "platforms": 1,
+      "confirmedOn": [],
+      "confidence": 0.35,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2otMTJDQmxtdGJwLUFYcHhMejBfaW50b0hRS010SEdqbHZhOWVXRmo1Q0xaa0FISWkzY0NSSlRQVlVtMnM4d1BMMkdQM0IwVUFFTUREQUgtWkNTTzFIX09NaTFFMDR4eXZUWVlhM0xRc0RrZTZPc0phUVlNVEI1dWpRbHl3TDN1SDFvLVNhUVJIdnNLQkQ1N05jMWtqUkVwSGJwRmd3?oc=5"
+    },
     {
       "entity": "Thai students in disbelief after deadly school shooting",
       "source": "googlenews",
       "kind": "news",
-      "status": "CLIMBING",
+      "status": "PLATEAU",
       "phase": "BREAKING",
       "countries": [
         "SG",
@@ -22,53 +223,47 @@
       "newCountries": 0,
       "articleCount": 3,
       "publisherCount": 3,
-      "ageHours": 2,
-      "score": 75.7,
-      "velocity": 34.39,
+      "ageHours": 3,
+      "score": 55.8,
+      "velocity": 18.61,
       "pos": 1,
-      "ageDays": 0.08,
+      "ageDays": 0.13,
       "platforms": 1,
       "confirmedOn": [],
       "confidence": 0.35,
-      "category": null,
-      "why": null,
-      "angle": null,
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUdVTFN0SmxDcm5IUFQ3ZDFDUHZnRGI3clRxb3FrWlk5UFBuLWhDVFdTNkNURHE3Q0ExeWVCUnlydXh0MW1FQUlVdkFoVGZqTFlja25LOWZzRFhzeEZPOG50QkRUSEhPM3dHYVpGX2hpUkM2SjQ2WGc3a01GWlFQLWJ5aXotS0xScDRWa1JNRC15VEVOaG5CMHZzOG1HT0Q5WmhmRzBYWkpZVEEtRkdmU0FVUEtRNXFCMno3Z29RbmtEbUlhVmow?oc=5"
     },
     {
-      "entity": "Trump's White House ballroom project stalled",
+      "entity": "WWE SmackDown results, grades (Aug. 7): Kevin Owens, Randy Orton bring the heat; Tatum Paxley debuts",
       "source": "googlenews",
       "kind": "news",
       "status": "PLATEAU",
       "phase": "BREAKING",
       "countries": [
-        "US",
-        "AU"
+        "PH",
+        "PK"
       ],
       "countryCount": 2,
       "newCountries": 0,
       "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 5.6,
-      "score": 69,
-      "velocity": 19.96,
-      "pos": 1,
-      "ageDays": 0.23,
+      "publisherCount": 1,
+      "ageHours": 4.5,
+      "score": 54.7,
+      "velocity": 16.02,
+      "pos": 23,
+      "ageDays": 0.19,
       "platforms": 2,
       "confirmedOn": [
-        "bluesky"
+        "gtrends"
       ],
       "confidence": 0.57,
-      "category": null,
-      "why": null,
-      "angle": null,
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ2Y1LXVndW1CYTZLREtONjNaUGhlamYtSU9GYWM1T3RsRF9fWVBSWnhOMGxVQ3Ywc0lmdzNrY05NMDN3cHc0bXhPS3Z2ejRZdVp2dzN2Q0wzYmNQUnlCakNZTHlaZ0xRU09zYnpGWVZFdmttTzNfeWZpRm5QdWExR2d5ZnRYcVdXdXZiWXRtUW0?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbC1PeWdTUVBFemh5b1FlV1NYZkRxN29NQjFSa2NGLWExX3hkcjY0bUNyNXV5Sy1qYjRBal95SjJ4TWloWW8wM1pkUVpGbVZ5MkQ1b3RJanhhejBLR1FzRWFmRjU0ZHlnWmxrNTZtNDBDLXRUaTBucFJLOTA1emhiWVJpYlJ4Qlk1SXhHbW5JYjl4Rmd3VF9SQlJ0UkgwQVV5YUlhVTVIWHZyRk5wUEpGSHFPc1o2b0EyMkFTMFU1d3ZEZ0pzQVkxSEhMT2JPdUZjWUtFdHd0a3c1YjBQSjE5cFhn?oc=5"
     },
     {
       "entity": "Leylah Fernandez ousts Mirra Andreeva from National Bank Open in major upset",
       "source": "googlenews",
       "kind": "news",
-      "status": "PLATEAU",
+      "status": "DECAYING",
       "phase": "BREAKING",
       "countries": [
         "CA",
@@ -78,24 +273,21 @@
       "newCountries": 0,
       "articleCount": 2,
       "publisherCount": 2,
-      "ageHours": 2.2,
-      "score": 67.7,
-      "velocity": 22.75,
+      "ageHours": 3.2,
+      "score": 44.8,
+      "velocity": 12.31,
       "pos": 27,
-      "ageDays": 0.09,
+      "ageDays": 0.13,
       "platforms": 1,
       "confirmedOn": [],
       "confidence": 0.35,
-      "category": null,
-      "why": null,
-      "angle": null,
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGF2WUJMQU9OZjBnUHh1N3ljSHZ3a2VJcFJVdzR5VDFSaklXWFh4aHF1VHdvYXFQV0pWTWo0Y1dISUhzOU1nQVFlNmJrZ1pNUVFFUHMtSlpOeUxRRlRhYnRoUFpKMFpKLUVaM2UzeWNrWDdOY2czMy1hMDhJRk83dWR0aUYxTTZhZmxoMTRtNDZfUzZldTU3cUhiSmlUNUE?oc=5"
     },
     {
       "entity": "Can India Reduce Diabetes Without Slowing Its Diabetes Economy?",
       "source": "googlenews",
       "kind": "news",
-      "status": "PLATEAU",
+      "status": "DECAYING",
       "phase": "BREAKING",
       "countries": [
         "IN",
@@ -105,215 +297,15 @@
       "newCountries": 0,
       "articleCount": 2,
       "publisherCount": 2,
-      "ageHours": 2.9,
-      "score": 66.6,
-      "velocity": 22.15,
-      "pos": 37,
-      "ageDays": 0.12,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "category": null,
-      "why": null,
-      "angle": null,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFgwUU1lR0FKVmxkcnVzeS0tc1J3TDVDQVcxdHl0VTdfd1dNNHgwRlhVUGxPRjF6YndkY01PQ1M4amJFSmVFeWNGdnFPaE9qRzJnRUZDeE1hQkk0d3J4TUNhdkZkWGZUTGNkajVjd1FhU0lScTUwMngxWG5ObWlOWWlQcUdCRGNnclB1TDVVVjJ2UUIxXzRTaTlDMGtoNm4yMlI1V19vdElVeGs3SnVCZA?oc=5"
-    },
-    {
-      "entity": "RFAs: Expanding Global Health Security Through Local Partnerships (US)",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "NG",
-        "PH"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 3.2,
-      "score": 65.7,
-      "velocity": 21.89,
-      "pos": 14,
-      "ageDays": 0.13,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZWUzazJZV2txXzJrbWI3b3V6dlc3WUlmZUM2QUEybVFrU185MjRzMGJLTmxnSmlGU1RLMzB3YkZhOTczLUN4c3RDY1hfbW5TU0IxNVAzTUxOLXZaRnRra05IQm1YV3B2ZmZJaFNidTZiazQ3VXUyWHNzMUlhZTlGYmlwNGZCQXZra0NLbldRUFQzS2Znb3NUVVJXRDVEeTJ0aFZxc3I4SjVSNEtnX0c00gG0AUFVX3lxTE1UY1R6N2F5bmhYRENxS2JPVDdobkJfTDh5OTFsQWVRbHJjeldOckRLaWU1N0huUGZ6RU5ON0pIeHR3OXByMkhHUWYzemRfdnpCVTN4X2VKUEx1bm5IamMyNEhGaEpocG92ejNHclJqNjFWYm1nTVhaakFmeW1YcXJLaXNDR1BISWJ1ZnRXM2wyVVNNaHRVMWxZSVJoQXV2RFNmMlNtRzhqa1ZoaFpPZ003X3M0bA?oc=5"
-    },
-    {
-      "entity": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "US",
-        "AU"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 1,
-      "ageHours": 1.6,
-      "score": 63.6,
-      "velocity": 17.91,
-      "pos": 11,
-      "ageDays": 0.07,
-      "platforms": 2,
-      "confirmedOn": [
-        "wikipedia"
-      ],
-      "confidence": 0.57,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQm1DS01Va0pId2VlaTljcTZBQkNKajFTZjRSV3BzRDZ4M2VYX0VXNnhjWFdxb3pDS1Awem9sRmhqSGlpblFGVHBWT2prVjlzSnR2NnA1NzVCRFZPdUQ0ZGZPUVgwV2poMmR1Wm5QVExZRTJ3STMxVUI3dy1uYzA2MFJXbGRGWGdDYlMtREFqVExVNXNaenROcG9vWDd3MGd2WEE1NHpsM2xpQTZ3NDJQN25xOEzSAboBQVVfeXFMUHFkczZZWXJDVjNoRXlKYXRpY0RDdkRMMFZaZ05US3c5ZHliSjhEcDk0dFR4OXh5d3NaNXhEVTNBY0RDSEh6VW5zaXpYWmJWSnV5bUJNNzU1OXF3b1dJZUxtdHNob1RId3BublZJbkhETURqbkxOaWdaMEE4aTlMNENHY2UzM0FGMFlBV0dXX2xFVnVUWS1lZWZqeVNMeHducDY0dnp4ZTE0T29LaG90TmdYR3FsRUoyVmlB?oc=5"
-    },
-    {
-      "entity": "Johor Bahru arrest puts Singapore Opposition figure Lim Tean on path back to court",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "SG",
-        "MY"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
       "ageHours": 3.9,
-      "score": 63.2,
-      "velocity": 21.31,
-      "pos": 3,
+      "score": 43.9,
+      "velocity": 11.99,
+      "pos": 37,
       "ageDays": 0.16,
       "platforms": 1,
       "confirmedOn": [],
       "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMHBXVkhxTDFycUpaUVMyTnZFOXFtcVFTUEEtVTQ0SFZqMFFRVDNIYUhIaU9PQ1BQTGxtXzVzTEU3eTlubkRtbkJaRUtSbnlxLURpekJjb1c5NjZTSmN2bVZ3Tkw5bU1iM3dGOVJSeHpaR3UwUWRGMExDRDVZdGtrbDRvRWg0S1A3MnJIeVZpeXlPMnRkWFZSS0tIT2dmQXNjMVQwT2FudExkMkVtdnZmVFhibTVMc0d3WnJfZnN0YVprS1A2cVI4S2FEeFVpLWNGaW54S191MUo3T0FIazFWMHVaZGJER0QyTXJUQmZLdEp3U2gtQTMxWnJueHgwQ01GWEZpZTB2MA?oc=5"
-    },
-    {
-      "entity": "Child among three dead in Russian nightly strikes near Kyiv",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "US",
-        "GB"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 1,
-      "ageHours": 1.2,
-      "score": 57.7,
-      "velocity": 18.19,
-      "pos": 12,
-      "ageDays": 0.05,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JRW51dTJkckJQckpncDJDdVloS0pKZ01TeVdTVnZUX1pOb2ZlVVRIdHU0Q3NVd0NGb19oZVBOcmtqa1JXb1dSVE41THhNblhpWlpwR21mWW5odw?oc=5"
-    },
-    {
-      "entity": "Congo’s Ebola Outbreak Crosses 4,000 Cases As Death Toll Hits 1,850",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "IN",
-        "ZA",
-        "NG"
-      ],
-      "countryCount": 3,
-      "newCountries": 0,
-      "articleCount": 3,
-      "publisherCount": 3,
-      "ageHours": 5.8,
-      "score": 54.6,
-      "velocity": 16.71,
-      "pos": 35,
-      "ageDays": 0.24,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14TFRDendyMUZnS3BiQTBzdFhpRkJwNkNoM09TYzA5bUd5OVRsR2RlMlZnREoxT0Mxa3Vpb3VpNnIyWGhwY2NTVjk1bE9vTnhLU29DZm5YWTZraWdEYnByZUxqNGI4cnNIeVdINFlEWUdmcXA5OWdTTEp6NGdyZw?oc=5"
-    },
-    {
-      "entity": "Apply Now: Implementation of Findings From PCORI’s Research Investments (United States)",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "PLATEAU",
-      "phase": "BREAKING",
-      "countries": [
-        "CA",
-        "NG"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 1.1,
-      "score": 51.6,
-      "velocity": 13.35,
-      "pos": 13,
-      "ageDays": 0.05,
-      "platforms": 2,
-      "confirmedOn": [
-        "wikipedia"
-      ],
-      "confidence": 0.57,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVDlXdm9ITEN6SFB3YjZzcmg0ZWJRaTBFQ3FpS3duQjIyY2pwVkJGd0ZOV2EzSUVia21sYnpiaFlJdGZwRXJFMDdQalZTam8wN1VEVE5wSU9NcXdGQlczekEyVFRaNllfTWVweTZCY2t2dnJPUjdBcjUyUFpSM0RKVHV3cVd0N1I3NXIxSVlnOTdGeno3dXl5YnZKaWViaE5PNEZFVVJYRXdTMS1YQmVpSU1B?oc=5"
-    },
-    {
-      "entity": "Katseye’s Sophia Laforteza announces hiatus before headlining Rose Bowl music festival",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "DECAYING",
-      "phase": "BREAKING",
-      "countries": [
-        "SG",
-        "PH"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 3.3,
-      "score": 44,
-      "velocity": 12.27,
-      "pos": 24,
-      "ageDays": 0.14,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GdGJVLXY2ZnZES3BZT3JjaG1rZWFqbld2SVhKRHJDQktETXZ5dldCaU1leFlQZW5mczNqdUYxWC1ReEJnb0ZJaXJvWDFxeFlvQ19BcUlUN2hYQQ?oc=5"
-    },
-    {
-      "entity": "Eight dead in mass shooting in Thailand. Here's how it unfolded.",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "DECAYING",
-      "phase": "BREAKING",
-      "countries": [
-        "AU",
-        "IE"
-      ],
-      "countryCount": 2,
-      "newCountries": 0,
-      "articleCount": 2,
-      "publisherCount": 2,
-      "ageHours": 3.6,
-      "score": 43.2,
-      "velocity": 12.13,
-      "pos": 12,
-      "ageDays": 0.15,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjFaZ1FGaU50SlFILUQtNWpTTEEzWHdEQldUM3NGTG1qQVFsWDFyWXU2M2RreE53ZEdSdEpNdDJ2cWJiSUpVd3Rha2pLbjZTdThJWmpyNWtVYXRVX2dwSGJqNTdBUXRYLW9ETURib3NlLVhlQXV2Z1dmM1lsbE5Gdlc4RnVYV1BOWGdSc0hEMUFEQjJuTVVwenNLcF9VY05XTWF3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFgwUU1lR0FKVmxkcnVzeS0tc1J3TDVDQVcxdHl0VTdfd1dNNHgwRlhVUGxPRjF6YndkY01PQ1M4amJFSmVFeWNGdnFPaE9qRzJnRUZDeE1hQkk0d3J4TUNhdkZkWGZUTGNkajVjd1FhU0lScTUwMngxWG5ObWlOWWlQcUdCRGNnclB1TDVVVjJ2UUIxXzRTaTlDMGtoNm4yMlI1V19vdElVeGs3SnVCZA?oc=5"
     },
     {
       "entity": "William Orbit",
@@ -364,7 +356,7 @@
       "url": "https://bsky.app/profile/trending.bsky.app/feed/823174861"
     },
     {
-      "entity": "william, prince of wales",
+      "entity": "christian bale",
       "source": "gtrends",
       "kind": "search",
       "status": "PLATEAU",
@@ -374,7 +366,7 @@
       "ageHours": 12,
       "score": 72.8,
       "velocity": 6.49,
-      "pos": 1,
+      "pos": 6,
       "ageDays": 0.5,
       "platforms": 2,
       "confirmedOn": [
@@ -384,7 +376,7 @@
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://trends.google.com/trends/explore?q=william%2C%20prince%20of%20wales&geo=GB"
+      "url": "https://trends.google.com/trends/explore?q=christian%20bale&geo=US"
     },
     {
       "entity": "Big Brother 28 (American season)",
@@ -435,7 +427,7 @@
       "url": "https://bsky.app/profile/trending.bsky.app/feed/822741923"
     },
     {
-      "entity": "ronaldo",
+      "entity": "tatum paxley",
       "source": "gtrends",
       "kind": "search",
       "status": "PLATEAU",
@@ -445,20 +437,20 @@
       "ageHours": 12,
       "score": 72.8,
       "velocity": 6.49,
-      "pos": 4,
+      "pos": 3,
       "ageDays": 0.5,
       "platforms": 2,
       "confirmedOn": [
-        "wikipedia"
+        "googlenews"
       ],
       "confidence": 0.57,
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://trends.google.com/trends/explore?q=ronaldo&geo=GB"
+      "url": "https://trends.google.com/trends/explore?q=tatum%20paxley&geo=GB"
     },
     {
-      "entity": "Abelardo de la Espriella",
+      "entity": "Ronald Araújo",
       "source": "wikipedia",
       "kind": "lookup",
       "status": "IGNITION",
@@ -468,7 +460,7 @@
       "ageHours": 24,
       "score": 100,
       "velocity": 34.53,
-      "pos": 2,
+      "pos": 32,
       "ageDays": 1,
       "platforms": 2,
       "confirmedOn": [
@@ -478,7 +470,7 @@
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://es.wikipedia.org/wiki/Abelardo_de_la_Espriella"
+      "url": "https://en.wikipedia.org/wiki/Ronald_Ara%C3%BAjo"
     },
     {
       "entity": "Trump's Project",
@@ -505,7 +497,7 @@
       "url": "https://bsky.app/profile/trending.bsky.app/feed/822468349"
     },
     {
-      "entity": "timothee chalamet",
+      "entity": "william, prince of wales",
       "source": "gtrends",
       "kind": "search",
       "status": "PLATEAU",
@@ -513,20 +505,22 @@
       "countryCount": 1,
       "newCountries": 0,
       "ageHours": 12,
-      "score": 65,
+      "score": 72.8,
       "velocity": 6.49,
-      "pos": 1,
+      "pos": 4,
       "ageDays": 0.5,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
+      "platforms": 2,
+      "confirmedOn": [
+        "wikipedia"
+      ],
+      "confidence": 0.57,
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://trends.google.com/trends/explore?q=timothee%20chalamet&geo=US"
+      "url": "https://trends.google.com/trends/explore?q=william%2C%20prince%20of%20wales&geo=GB"
     },
     {
-      "entity": "Presidente de Colombia",
+      "entity": "Christian Stocker",
       "source": "wikipedia",
       "kind": "lookup",
       "status": "IGNITION",
@@ -536,17 +530,40 @@
       "ageHours": 24,
       "score": 100,
       "velocity": 34.53,
-      "pos": 27,
+      "pos": 28,
       "ageDays": 1,
       "platforms": 2,
       "confirmedOn": [
-        "googlenews"
+        "gtrends"
       ],
       "confidence": 0.57,
       "category": null,
       "why": null,
       "angle": null,
-      "url": "https://es.wikipedia.org/wiki/Presidente_de_Colombia"
+      "url": "https://de.wikipedia.org/wiki/Christian_Stocker"
+    },
+    {
+      "entity": "ronaldo",
+      "source": "gtrends",
+      "kind": "search",
+      "status": "PLATEAU",
+      "phase": "SIGNAL",
+      "countryCount": 1,
+      "newCountries": 0,
+      "ageHours": 12,
+      "score": 72.8,
+      "velocity": 6.49,
+      "pos": 8,
+      "ageDays": 0.5,
+      "platforms": 2,
+      "confirmedOn": [
+        "wikipedia"
+      ],
+      "confidence": 0.57,
+      "category": null,
+      "why": null,
+      "angle": null,
+      "url": "https://trends.google.com/trends/explore?q=ronaldo&geo=GB"
     },
     {
       "entity": "Fright Club",
@@ -569,61 +586,7 @@
       "why": null,
       "angle": null,
       "url": "https://bsky.app/profile/trending.bsky.app/feed/823267337"
-    },
-    {
-      "entity": "hugo camberos",
-      "source": "gtrends",
-      "kind": "search",
-      "status": "PLATEAU",
-      "phase": "SIGNAL",
-      "countryCount": 1,
-      "newCountries": 0,
-      "ageHours": 12,
-      "score": 65,
-      "velocity": 6.49,
-      "pos": 2,
-      "ageDays": 0.5,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "category": null,
-      "why": null,
-      "angle": null,
-      "url": "https://trends.google.com/trends/explore?q=hugo%20camberos&geo=US"
     }
   ],
-  "climbing": [
-    {
-      "entity": "South Korean satellite captures before and after views of SpaceX rocket's moon crash",
-      "source": "googlenews",
-      "kind": "news",
-      "status": "IGNITION",
-      "phase": "GLOBAL",
-      "countries": [
-        "US",
-        "GB",
-        "IN",
-        "CA",
-        "ZA",
-        "IE",
-        "MY"
-      ],
-      "countryCount": 7,
-      "newCountries": 0,
-      "articleCount": 7,
-      "publisherCount": 7,
-      "ageHours": 9.6,
-      "score": 89.1,
-      "velocity": 59.88,
-      "pos": 31,
-      "ageDays": 0.4,
-      "platforms": 1,
-      "confirmedOn": [],
-      "confidence": 0.35,
-      "category": null,
-      "why": null,
-      "angle": null,
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmRhMUE0cllLTDJSNlZJYkh2TVNDNW5BYk9QaUZIVjN6Y0lwVElyNXlYZjQyX21NWTM2am9fc0lIVVM1djg2cV9hbHN3dnBCR0QxOVF2LWY3VEoxSkxkb19YR3VabEM0TFVwcm1WU2Y4MVVWMkVHeFdLYnVSdnd5bnZDOE9XVnYyVkJfTWRDRE9zbXBuaEVJZ1hB?oc=5"
-    }
-  ]
+  "climbing": []
 }
